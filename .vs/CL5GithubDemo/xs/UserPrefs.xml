@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9CBADA0D-1963-4CB3-9510-50FDE22E29AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CL5GithubDemo/Program.cs">
+    <Files>
+      <File FileName="CL5GithubDemo/Program.cs" Line="10" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CL5GithubDemo" expanded="True">
+            <Node name="CL5GithubDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CL5GithubDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

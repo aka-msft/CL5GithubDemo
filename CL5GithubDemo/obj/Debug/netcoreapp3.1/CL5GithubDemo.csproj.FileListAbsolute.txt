@@ -1,0 +1,11 @@
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/bin/Debug/netcoreapp3.1/CL5GithubDemo
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/bin/Debug/netcoreapp3.1/CL5GithubDemo.deps.json
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/bin/Debug/netcoreapp3.1/CL5GithubDemo.runtimeconfig.json
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/bin/Debug/netcoreapp3.1/CL5GithubDemo.runtimeconfig.dev.json
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/bin/Debug/netcoreapp3.1/CL5GithubDemo.dll
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/bin/Debug/netcoreapp3.1/CL5GithubDemo.pdb
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/obj/Debug/netcoreapp3.1/CL5GithubDemo.csprojAssemblyReference.cache
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/obj/Debug/netcoreapp3.1/CL5GithubDemo.AssemblyInfoInputs.cache
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/obj/Debug/netcoreapp3.1/CL5GithubDemo.AssemblyInfo.cs
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/obj/Debug/netcoreapp3.1/CL5GithubDemo.dll
+/Users/aka/repos/CL5GithubDemo/CL5GithubDemo/obj/Debug/netcoreapp3.1/CL5GithubDemo.pdb
